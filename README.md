@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [nipungrover.github.io](nipungrover.github.io)
 
-- 💬 Ask me about **C#, JavaScript**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **nipungrover2002@gmail.com**
 
