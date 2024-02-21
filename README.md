@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Azure**
 
-- 👨‍💻 All of my projects are available at [nipungrover.github.io](nipungrover.github.io)
+- 👨‍💻 All of my projects are available at [nipungrover.github.io](https://nipungrover.github.io)
 
 - 💬 Ask me about **C#**
 
